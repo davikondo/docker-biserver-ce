@@ -3,7 +3,7 @@
 #
 
 # Pull base image
-FROM zhicwu/biserver-ce:8.0-base
+FROM dkondo/pentaho-biserver-ce:8.0-base
 
 # Set maintainer
 MAINTAINER Zhichun Wu <zhicwu@gmail.com>
